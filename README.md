@@ -34,7 +34,7 @@ I am especially interested in:
 - Online shopping web application  
 - Product listing and purchase flow implementation
 
-🔗 https://github.com/niroj-bot/primesound-store 
+🔗 https://github.com/niroj-bot/primesound-store  
 🌐 http://ik1-423-43816.vs.sakura.ne.jp:8080/B-0250-4/ItemListController
 
 ---
