@@ -20,6 +20,18 @@ I am especially interested in:
 
 ## 🧑‍💼 Projects
 
+---
+
+### ClinIcare
+- Solves real patient-clinic booking problem 
+- Multi-role business system (patient / clinic / admin) 
+
+🔗 https://github.com/niroj-bot/clinicare-backend
+🔗 https://github.com/niroj-bot/clinicare-frontend
+🌐 https://clinicare-frontend-ten.vercel.app/
+
+---
+
 ### Employee Management System
 - Java Web Application (JSP / Servlet)
 - Manage employee data and send notifications
@@ -41,9 +53,10 @@ I am especially interested in:
 
 ## 🛠️ Skills
 
-- Java  
-- JSP / Servlet  
-- SQLite 
+- Java
+- Python 
+- React 
+- PostgreSQL / SQLite 
 - HTML / CSS
 - JavaScript 
 - Basic Linux & Server Setup  
