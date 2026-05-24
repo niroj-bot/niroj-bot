@@ -26,8 +26,8 @@ I am especially interested in:
 - Solves real patient-clinic booking problem 
 - Multi-role business system (patient / clinic / admin) 
 
-🔗 https://github.com/niroj-bot/clinicare-backend 
-🔗 https://github.com/niroj-bot/clinicare-frontend 
+🔗 https://github.com/niroj-bot/clinicare-backend  
+🔗 https://github.com/niroj-bot/clinicare-frontend   
 🌐 https://clinicare-frontend-ten.vercel.app/
 
 ---
